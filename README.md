@@ -7,14 +7,10 @@ Este projeto é uma aplicação web simples desenvolvida em PHP puro, seguindo p
 
 ## Pré-requisitos
 
-Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
-
 - PHP 8
 - Ambiente de desenvolvimento para PHP (ex.: laragon ou xampp)
 
 ## Passo 1: Clonar o repositório
-
-Comece clonando este repositório para sua máquina local. Abra o terminal e execute o seguinte comando:
 
 ```bash
 git clone https://github.com/maats01/prog3-a1-poo-Matheus-Sampaio.git
