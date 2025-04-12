@@ -1,4 +1,4 @@
-# prog3-a1-poo--Matheus-Sampaio-
+# prog3-a1-poo-Matheus-Sampaio
 
 Este repositório contém um projeto desenvolvido utilizando PHP 8. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
 
