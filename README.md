@@ -3,7 +3,7 @@
 Este repositório contém um projeto desenvolvido utilizando PHP 8. Neste arquivo README, você encontrará um guia passo a passo para executar o projeto em seu ambiente local.
 
 ## Visão geral
-Este projeto é uma aplicação web simples desenvolvida em PHP puro, seguindo padrões de POO, com o objetivo de demonstrar de maneira didática o funcionamento de sessões e cookies. Permite cadastrar um usuário (e-mail e senha) e realizer login, simulando um banco de dados com a classe Autenticador, armazenada na sessão do usuário.
+Este projeto é uma aplicação web simples desenvolvida em PHP puro, seguindo padrões de POO, com o objetivo de demonstrar de maneira didática o funcionamento de sessões e cookies do navegador. Permite cadastrar um usuário (e-mail e senha) e realizer login, simulando um banco de dados com a classe Autenticador, armazenada na sessão do usuário.
 
 ## Pré-requisitos
 
